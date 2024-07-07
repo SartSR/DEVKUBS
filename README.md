@@ -1,2 +1,0 @@
-# DEVKUBS
-Devops&amp;Kubernetes
